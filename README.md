@@ -1,3 +1,7 @@
+# Monsters rolodex
+
+This app is a searchbox. Filters JSON file and returns results.<br> Link to this App --> https://agrismag.github.io/monsters-rolodex/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
