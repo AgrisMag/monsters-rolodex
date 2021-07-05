@@ -1,5 +1,6 @@
 # Monsters rolodex
 
+This application is built within Zero To Mastery course (The Complete Web Developer in 2021: Zero to Mastery) https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery
 This app is a searchbox. Filters JSON file and returns results.<br> Link to this App --> https://agrismag.github.io/monsters-rolodex/
 
 # Getting Started with Create React App
